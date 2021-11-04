@@ -11,7 +11,7 @@ Administrator:
 
 GitOps
   Cac: Ansible
-  CI_CD:
+  CI/CD:
     - Github Actions
     - Gitlab Actions
   Containerization:
