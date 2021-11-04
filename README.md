@@ -1,5 +1,4 @@
 <h2 align="center">Technologies && Tools</h2>
-<hr>
 
 <hr>
 
