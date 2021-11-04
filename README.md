@@ -9,7 +9,7 @@ Administrator:
   - OpenBSD
   - Windows
 
-GitOps
+GitOps:
   Cac: Ansible
   CI/CD:
     - Github Actions
