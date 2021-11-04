@@ -10,7 +10,7 @@ Administrator:
   - Windows
 
 GitOps:
-  Cac: Ansible
+  CaC: Ansible
   CI/CD:
     - Github Actions
     - Gitlab Actions
