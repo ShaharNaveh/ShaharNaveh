@@ -3,33 +3,31 @@
 <hr>
 
 ```yaml
-GitOps
-  VCS:
-    - Git
-  IaC:
-    - Terraform
-  Cac:
-    - Ansible
-  Monitoring:
-    - Zabbix
-    - Grafana
-  Containerization:
-    - Docker
-    - Podman
-  CI_CD:
-    - Github Actions
-
-Programing:
-  - Bash
-  - Lua
-  - Python
-  - Rust
-
 Administrator:
   - Cisco Switches/Routers
   - Linux
   - OpenBSD
   - Windows
+
+GitOps
+  Cac: Ansible
+  CI_CD:
+    - Github Actions
+    - Gitlab Actions
+  Containerization:
+    - Docker
+    - Podman
+  IaC: Terraform
+  Monitoring:
+    - Grafana
+    - Zabbix
+  VCS: Git
+  
+Programing:
+  - Bash
+  - Lua
+  - Python
+  - Rust
 ```
 
 <h2 align="center">Profile summary</h2>
