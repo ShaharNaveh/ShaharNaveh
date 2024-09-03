@@ -1,9 +1,3 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=638fda&height=300&section=header&text=ShaharNaveh&fontSize=70&&fontColor=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaharNaveh&show_icons=true&theme=tokyonight" alt="ShaharNaveh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharNaveh&layout=compact" alt="ShaharNaveh's Top Languages" />
-</div>
-
 <div>
   <h1 align=center>ShaharNaveh's Stacks<br><br></h1>
   <h2>Language<br><br>
